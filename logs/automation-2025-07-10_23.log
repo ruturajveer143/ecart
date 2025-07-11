@@ -1,0 +1,32 @@
+23:32:37 [main] INFO  tests.TC000_HomePage - ========== Starting Test ==========
+23:32:37 [main] INFO  tests.TC000_HomePage - Opening Browser: chrome
+23:32:39 [main] INFO  tests.TC000_HomePage - Maximize the window....
+23:32:44 [main] INFO  tests.TC000_HomePage - Opening the URL: https://www.automationexercise.com/
+23:32:44 [main] INFO  tests.TC000_HomePage - ========== Starting Test ==========
+23:32:44 [main] INFO  tests.TC000_HomePage - Closeing the Browser.....
+
+23:46:25 [main] INFO  tests.TC002_LoginUser - ========== Starting ==========
+23:46:25 [main] INFO  tests.TC002_LoginUser - Opening Browser: chrome
+23:46:27 [main] INFO  tests.TC002_LoginUser - Maximize the window....
+23:46:32 [main] INFO  tests.TC002_LoginUser - Opening the URL: https://www.automationexercise.com/
+23:46:32 [main] INFO  com.pageObjects.HomePage - Clicked on signin
+23:46:34 [main] INFO  tests.TC002_LoginUser - Performing Login....
+23:46:34 [main] INFO  tests.TC002_LoginUser - Sending Login Details- Email: vrturaj888@gmail.com Password: Pass@1234
+23:46:34 [main] INFO  tests.TC002_LoginUser - Click on Login Button....
+
+23:56:54 [main] INFO  tests.TC001_RegisterUser - ========== Starting ==========
+23:56:54 [main] INFO  tests.TC001_RegisterUser - Opening Browser: chrome
+23:56:57 [main] INFO  tests.TC001_RegisterUser - Maximize the Window!
+23:57:05 [main] INFO  tests.TC001_RegisterUser - Opening the URL: https://www.automationexercise.com/
+23:57:05 [main] INFO  com.pageObjects.HomePage - Clicked on signup Button!
+23:57:06 [main] INFO  tests.TC001_RegisterUser - class com.pageObjects.SignUpPage
+23:57:06 [main] INFO  tests.TC001_RegisterUser - Entering the User Details!
+23:57:06 [main] INFO  tests.TC001_RegisterUser - Set the Name: user1
+23:57:07 [main] INFO  tests.TC001_RegisterUser - Set the Email: vrturaj888@gmail.com
+23:57:08 [main] INFO  tests.TC001_RegisterUser - Clicked on SignUp Button
+23:57:08 [main] INFO  tests.TC001_RegisterUser - Entering the Personal Inforamtion!
+23:57:09 [main] INFO  tests.TC001_RegisterUser - Entering the Address!
+23:57:09 [main] INFO  tests.TC001_RegisterUser - Clicked On Create Account Button!
+23:57:11 [main] INFO  com.pageObjects.HomePage - Clicked on Continue Button....
+23:57:14 [main] INFO  com.pageObjects.HomePage - Verifying Logged in User Name: Logged in as user1
+23:57:14 [main] INFO  com.pageObjects.HomePage - Clicked on logout Button!

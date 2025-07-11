@@ -1,0 +1,37 @@
+00:07:45 [main] INFO  tests.TC000_HomePage - ========== Starting ==========
+00:07:45 [main] INFO  tests.TC000_HomePage - Opening Browser: chrome
+00:07:47 [main] INFO  tests.TC000_HomePage - Maximize the Window!
+00:07:54 [main] INFO  tests.TC000_HomePage - Opening the URL: https://www.automationexercise.com/
+00:07:54 [main] INFO  tests.TC000_HomePage - Verified Title: Automation Exercise
+00:07:54 [main] INFO  tests.TC000_HomePage - Closeing the Browser!
+00:07:54 [main] INFO  tests.TC000_HomePage - ========== Ending ==========
+
+00:10:14 [main] INFO  tests.TC001_RegisterUser - ========== Starting ==========
+00:10:14 [main] INFO  tests.TC001_RegisterUser - Opening Browser: chrome
+00:10:16 [main] INFO  tests.TC001_RegisterUser - Maximize the Window!
+00:10:21 [main] INFO  tests.TC001_RegisterUser - Opening the URL: https://www.automationexercise.com/
+00:10:21 [main] INFO  tests.TC001_RegisterUser - Verified Title: Automation Exercise
+00:10:21 [main] INFO  com.pageObjects.HomePage - Clicked on signup Button!
+00:10:23 [main] INFO  tests.TC001_RegisterUser - Entering the User Details!
+00:10:23 [main] INFO  tests.TC001_RegisterUser - Set the Name: user1
+00:10:24 [main] INFO  tests.TC001_RegisterUser - Set the Email: vrturaj888@gmail.com
+00:10:25 [main] INFO  tests.TC001_RegisterUser - Clicked on SignUp Button
+00:10:25 [main] INFO  tests.TC001_RegisterUser - Closeing the Browser!
+00:10:25 [main] INFO  tests.TC001_RegisterUser - ========== Ending ==========
+
+00:11:39 [main] INFO  tests.TC000_HomePage - ========== Starting ==========
+00:11:39 [main] INFO  tests.TC000_HomePage - Opening Browser: chrome
+00:11:41 [main] INFO  tests.TC000_HomePage - Maximize the Window!
+00:11:45 [main] INFO  tests.TC000_HomePage - Opening the URL: https://www.automationexercise.com/
+00:11:45 [main] INFO  tests.TC000_HomePage - Verified Title: Automation Exercise
+00:11:45 [main] INFO  tests.TC000_HomePage - Closeing the Browser!
+00:11:45 [main] INFO  tests.TC000_HomePage - ========== Ending ==========
+
+00:12:20 [main] INFO  tests.TC000_HomePage - ========== Starting ==========
+00:12:20 [main] INFO  tests.TC000_HomePage - Opening Browser: chrome
+00:12:21 [main] INFO  tests.TC000_HomePage - Maximize the Window!
+00:12:25 [main] INFO  tests.TC000_HomePage - Opening the URL: https://www.automationexercise.com/
+00:12:25 [main] INFO  tests.TC000_HomePage - Verified Title: Automation Exercise
+00:12:25 [main] INFO  tests.TC000_HomePage - Closeing the Browser!
+00:12:25 [main] INFO  tests.TC000_HomePage - ========== Ending ==========
+
